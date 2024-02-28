@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answers": ["Paris", "London", "Berlin", "Madrid"],
+      "correct": "Paris"
+    },
+    {
+      "question": "What is 2 + 2?",
+      "answers": ["3", "4", "5", "6"],
+      "correct": "4"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct": "Mars"
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "answers": ["William Shakespeare", "Charles Dickens", "Leo Tolstoy", "Mark Twain"],
+      "correct": "William Shakespeare"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correct": "Pacific Ocean"
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "answers": ["Au", "Ag", "Pb", "Fe"],
+      "correct": "Au"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "answers": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon"],
+      "correct": "Hydrogen"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "answers": ["Gold", "Iron", "Diamond", "Quartz"],
+      "correct": "Diamond"
+    },
+    {
+      "question": "Who is known as the father of computers?",
+      "answers": ["Charles Babbage", "Alan Turing", "John von Neumann", "Ada Lovelace"],
+      "correct": "Charles Babbage"
+    },
+    {
+      "question": "What year did the first man land on the moon?",
+      "answers": ["1965", "1969", "1971", "1973"],
+      "correct": "1969"
+    }
+  ]
+  
