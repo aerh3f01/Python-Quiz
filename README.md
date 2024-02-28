@@ -46,4 +46,4 @@ python main.py
 
 ## License
 
-This project is licensed under the MIT License, with respect to the use of PySide6, which is licensed under the LGPLv3/GPLv2. For detailed information on the licensing terms and conditions, see the [LICENSE] file included in this repository.
+This project is licensed under the MIT License, with respect to the use of PySide6, which is licensed under the LGPLv3/GPLv2. For detailed information on the licensing terms and conditions, see the [MIT License](LICENSE) file included in this repository.
