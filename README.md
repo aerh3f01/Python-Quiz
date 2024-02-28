@@ -1,6 +1,6 @@
 # Python Quiz Game
 
-A simple and interactive quiz game built with PySide6. This project aims to provide a fun way to engage with various questions across multiple categories. Utilizing the PySide6 framework, the game features a graphical user interface (GUI) that allows users to interactively participate in the quiz, select answers, and receive immediate feedback.
+A simple and interactive quiz built with PySide6. This project aims to provide a fun way to engage with various questions across multiple categories. Utilising the PySide6 framework, the game features a graphical user interface (GUI) that allows users to interactively participate in the quiz, select answers, and receive immediate feedback.
 
 ## Features
 
@@ -46,4 +46,4 @@ python main.py
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License, with respect to the use of PySide6, which is licensed under the LGPLv3/GPLv2. For detailed information on the licensing terms and conditions, see the [LICENSE] file included in this repository.
